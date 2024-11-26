@@ -105,19 +105,3 @@
 - 运行[showposition.py](showposition.py)<br>
 - 点击图片的位置，下方会有结果，把里面的值填到[argparses.py](argparses.py)当中就行，下图点击的是移动按钮的位置<br><br>
   ![showposition.png](images%2Fshowposition.png)
-
-
-### 五、广告
-
-- AI创业做啥好呢？
-- [【腾讯云】特惠活动
-1 元开启 GPU 炼丹之旅
-澎湃算力，即开即用，使用高性能GPU服务HAI，快速部署LLM、AI绘画等应用，助你玩转AIGC！](https://cloud.tencent.com/act/cps/redirect?redirect=36749&cps_key=11812351d85cc069a0941ce4c8d07693)
-
-- [【腾讯云】2核2G4M云服务器新老同享99元/年，续费同价](https://cloud.tencent.com/act/cps/redirect?redirect=5990&cps_key=11812351d85cc069a0941ce4c8d07693&from=console)
-
-- [【阿里云】云服务器 精选特惠，老用户升级最低享6.5折，协助您选择最合适配置方案。](https://www.aliyun.com/product/ecs?userCode=cgwj31jh)
-
-<br>
-
-#### 注：开源不易，共同努力。
