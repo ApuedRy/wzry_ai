@@ -105,3 +105,5 @@
 - 运行[showposition.py](showposition.py)<br>
 - 点击图片的位置，下方会有结果，把里面的值填到[argparses.py](argparses.py)当中就行，下图点击的是移动按钮的位置<br><br>
   ![showposition.png](images%2Fshowposition.png)
+
+### 测试备注
